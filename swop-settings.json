@@ -1,0 +1,334 @@
+﻿{
+    "monsterLocked": {
+        "version": 2
+    },
+    "presets": {
+        "general": [
+            {
+                "opt_set1": "Violent",
+                "opt_set2": "",
+                "opt_set3": "",
+                "opt_no_broken": true,
+                "opt_sets_exclude": null,
+                "opt_slot2": [
+                    "SPD",
+                    "DEF%",
+                    "HP%"
+                ],
+                "opt_slot4": [
+                    "DEF%",
+                    "HP%"
+                ],
+                "opt_slot6": [
+                    "DEF%",
+                    "HP%"
+                ],
+                "opt_focus": [
+                    "SPD",
+                    "RES"
+                ],
+                "opt_focus_count": "80",
+                "filter_min_hp": "",
+                "filter_min_atk": "",
+                "filter_min_def": "",
+                "filter_min_spd": "",
+                "filter_min_crate": "",
+                "filter_min_cdmg": "",
+                "filter_min_res": "",
+                "filter_min_acc": "",
+                "filter_min_effhp": "",
+                "filter_min_effhp_d": "",
+                "filter_min_dps": "",
+                "filter_min_rune_avg": "",
+                "filter_max_hp": "",
+                "filter_max_atk": "",
+                "filter_max_def": "",
+                "filter_max_spd": "",
+                "filter_max_crate": "",
+                "filter_max_cdmg": "",
+                "filter_max_res": "",
+                "filter_max_acc": "",
+                "filter_max_effhp": "",
+                "filter_max_effhp_d": "",
+                "filter_max_dps": "",
+                "filter_max_rune_avg": "",
+                "id": 1,
+                "name": "bulky"
+            },
+            {
+                "opt_set1": "Violent",
+                "opt_set2": "",
+                "opt_set3": "",
+                "opt_no_broken": true,
+                "opt_sets_exclude": null,
+                "opt_slot2": [
+                    "SPD",
+                    "ATK%"
+                ],
+                "opt_slot4": [
+                    "ATK%",
+                    "CRate",
+                    "CDmg"
+                ],
+                "opt_slot6": [
+                    "ATK%"
+                ],
+                "opt_focus": [
+                    "SPD",
+                    "ACC"
+                ],
+                "opt_focus_count": "40",
+                "filter_min_hp": "",
+                "filter_min_atk": "",
+                "filter_min_def": "",
+                "filter_min_spd": "",
+                "filter_min_crate": "",
+                "filter_min_cdmg": "",
+                "filter_min_res": "",
+                "filter_min_acc": "",
+                "filter_min_effhp": "",
+                "filter_min_effhp_d": "",
+                "filter_min_dps": "",
+                "filter_min_rune_avg": "",
+                "filter_max_hp": "",
+                "filter_max_atk": "",
+                "filter_max_def": "",
+                "filter_max_spd": "",
+                "filter_max_crate": "",
+                "filter_max_cdmg": "",
+                "filter_max_res": "",
+                "filter_max_acc": "",
+                "filter_max_effhp": "",
+                "filter_max_effhp_d": "",
+                "filter_max_dps": "",
+                "filter_max_rune_avg": "",
+                "id": 2,
+                "name": "attack"
+            },
+            {
+                "opt_set1": null,
+                "opt_set2": null,
+                "opt_set3": null,
+                "opt_no_broken": null,
+                "opt_sets_exclude": null,
+                "opt_slot2": null,
+                "opt_slot4": null,
+                "opt_slot6": null,
+                "opt_focus": null,
+                "opt_focus_count": null,
+                "filter_min_hp": null,
+                "filter_min_atk": null,
+                "filter_min_def": null,
+                "filter_min_spd": null,
+                "filter_min_crate": null,
+                "filter_min_cdmg": null,
+                "filter_min_res": null,
+                "filter_min_acc": null,
+                "filter_min_effhp": null,
+                "filter_min_effhp_d": null,
+                "filter_min_dps": null,
+                "filter_min_rune_avg": null,
+                "filter_max_hp": null,
+                "filter_max_atk": null,
+                "filter_max_def": null,
+                "filter_max_spd": null,
+                "filter_max_crate": null,
+                "filter_max_cdmg": null,
+                "filter_max_res": null,
+                "filter_max_acc": null,
+                "filter_max_effhp": null,
+                "filter_max_effhp_d": null,
+                "filter_max_dps": null,
+                "filter_max_rune_avg": null,
+                "id": 3,
+                "name": "Preset 3"
+            }
+        ],
+        "monster": {},
+        "version": 2
+    },
+    "focusWeights": {
+        "HP": 1,
+        "DEF": 1,
+        "ATK": 1,
+        "SPD": 1.5,
+        "CRate": 1.5,
+        "CDmg": 1,
+        "RES": 1,
+        "ACC": 1
+    },
+    "efficiencyWeights": {
+        "HP flat": 0.167,
+        "HP%": 0.333,
+        "ATK flat": 0.167,
+        "ATK%": 0.333,
+        "DEF flat": 0.167,
+        "DEF%": 0.333,
+        "SPD": 1,
+        "CRate": 0.333,
+        "CDmg": 0.333,
+        "ACC": 0.333,
+        "RES": 0.333
+    },
+    "teams": [],
+    "prioritylist": {
+        "14003595": {
+            "weights": {},
+            "dungeons": {
+                "10": [
+                    21214154919,
+                    15612211903,
+                    9147929349,
+                    9147984882,
+                    9646717027
+                ],
+                "20": [
+                    16034589881,
+                    17480651374,
+                    17569377748,
+                    4560252272
+                ],
+                "30": [
+                    16034589881,
+                    17480651374,
+                    17569377748,
+                    4560252272,
+                    15615561071
+                ],
+                "33": [
+                    4560252272,
+                    17914413372,
+                    13685973169,
+                    12188328531,
+                    15612211903
+                ],
+                "36": [
+                    4560252272,
+                    16034589881,
+                    17480651374,
+                    17569377748
+                ],
+                "40": [
+                    12188328531,
+                    4433827543,
+                    11706482401,
+                    9147984882,
+                    5411244869,
+                    16073362192,
+                    4560252272,
+                    17914413372,
+                    15612211903,
+                    16034589881,
+                    17480651374,
+                    17569377748,
+                    18768939703
+                ],
+                "60": [
+                    15905490014,
+                    8219665892,
+                    6966897149,
+                    17565238522,
+                    8821721032
+                ],
+                "80": [
+                    6966897149,
+                    8821721032,
+                    8219665892
+                ],
+                "110": [
+                    9646717027,
+                    16273924493,
+                    16273948214,
+                    13685973169,
+                    4543098011,
+                    8821721032
+                ],
+                "120": [],
+                "130": [
+                    11684371835,
+                    9646717027,
+                    13685973169,
+                    6966897149,
+                    15635193904,
+                    4560252272
+                ],
+                "150": [
+                    16273924493,
+                    16273948214,
+                    9646717027,
+                    13685973169,
+                    8821721032,
+                    11684371835
+                ],
+                "200": [
+                    8219665892,
+                    17895386360,
+                    4892536536,
+                    12183346645,
+                    5976421268,
+                    17565238522,
+                    6966897149,
+                    19661471484,
+                    17754979666,
+                    19682808247,
+                    4667781068,
+                    15612181206,
+                    18739726125,
+                    17785070785,
+                    18391941976,
+                    8821721032,
+                    15914344985,
+                    17716796542,
+                    18192457640,
+                    16073362192,
+                    5411244869,
+                    5976415835,
+                    17291651296,
+                    12188328531,
+                    15612211903,
+                    5417004416,
+                    19232882770,
+                    18739721846,
+                    16034587003,
+                    19738588369
+                ],
+                "1000": [
+                    16073362192,
+                    8821721032,
+                    15905490014,
+                    18739721846,
+                    16034587003,
+                    17754979666,
+                    19682808247,
+                    6966897149,
+                    11706482401,
+                    19738588369,
+                    19232611212,
+                    19738587118,
+                    18391941976,
+                    17716796542,
+                    8821698992,
+                    11684371835,
+                    20035552279,
+                    19232882770,
+                    12838016163,
+                    15914344985,
+                    19355449398,
+                    5411244869
+                ]
+            }
+        }
+    },
+    "toggleColumns": {
+        "gridMons": {},
+        "gridRunes": {
+            "tags": false,
+            "efficiency": true
+        },
+        "gridCrafts": {}
+    },
+    "tags": {
+        "types": [],
+        "entries": {}
+    }
+}
