@@ -1,0 +1,23 @@
+	monster_n	ancient	set	slot	grade	level	m_t	m_v	i_t	i_v	sub_res	sub_cdmg	sub_atkf	sub_acc	sub_atkp	sub_defp	sub_deff	sub_hpp	sub_hpf	sub_spd	sub_crate	quality	tot_sum_norm	tot_min_norm	tot_max_norm	is_odd	tier	num_powerup_incsub_left	flag	sell
+1381	Inventory	False	Blade	1	6	3	ATK flat	46	RES	4		11.0						5.0			5.0	Hero	3.529761904761905	5.029761904761905	6.529761904761905	True	C	2.0	True	True
+1382	Inventory	False	Blade	3	6	3	DEF flat	46	CRate	4						12.0				4.0		Rare	3.4999999999999996	5.0	7.5	True	C	1.0	True	True
+155	Kro	True	Blade	5	6	6	HP flat	1080		0					16.0					11.0		Rare	5.666666666666666	6.666666666666666	7.666666666666666	True	C	0.0	True	True
+156	Brandia	False	Blade	5	6	6	HP flat	1080	CDmg	7										6.0	15.0	Rare	5.5	6.5	7.5	True	C	0.0	True	True
+1359	Inventory	False	Blade	1	5	6	ATK flat	57		0	15.0				6.0					4.0		Hero	3.958333333333333	4.958333333333333	6.958333333333333	True	C	1.0	True	True
+783	Skogul	False	Endure	6	6	12	HP%	47		0							13.0		196.0	16.0	5.0	Rare	6.752999999999999	6.752999999999999	6.752999999999999	False	C	0.0	True	True
+1352	Inventory	False	Energy	1	6	3	ATK flat	46		0								5.0		9.0		Rare	3.625	5.125	7.625	True	C	1.0	True	True
+1353	Inventory	False	Energy	3	6	3	DEF flat	46	ACC	4	10.0									4.0		Rare	3.083333333333333	4.583333333333333	7.083333333333333	True	C	1.0	True	True
+1380	Inventory	False	Energy	4	6	3	CDmg	23		0			32.0		6.0				253.0			Hero	1.8873333333333333	3.3873333333333333	4.887333333333333	False	C	2.0	True	True
+1337	Inventory	False	Energy	5	6	9	HP flat	1440		0			11.0					22.0		11.0		Hero	6.691666666666666	7.191666666666666	7.691666666666666	True	C	0.0	True	True
+1345	Inventory	False	Energy	3	5	9	DEF flat	78	CDmg	5						9.0		6.0		10.0		Hero	5.922619047619048	6.422619047619048	6.922619047619048	True	C	0.0	True	True
+1376	Inventory	False	Enhance	5	6	6	HP flat	1080	HP%	7										4.0	17.0	Rare	5.041666666666667	6.041666666666667	7.041666666666667	True	C	0.0	True	True
+1367	Inventory	False	Fatal	5	6	6	HP flat	1080	ATK%	5						20.0		8.0			5.0	Hero	4.958333333333333	5.958333333333333	6.958333333333333	True	B	1.0	True	True
+56	Dias	False	Guard	6	6	12	HP%	47		0	6.0	5.0				22.0				8.0		Hero	6.8809523809523805	6.8809523809523805	6.8809523809523805	False	C	0.0	True	True
+1371	Inventory	False	Nemesis	5	6	6	HP flat	1080		0					11.0					9.0		Rare	4.375	5.375	6.375	True	B	0.0	True	True
+715	Darion	False	Revenge	4	6	12	HP%	47		0	15.0						23.0		268.0	11.0		Hero	6.474	6.474	6.474	False	B	0.0	True	True
+1347	Inventory	False	Revenge	1	5	9	ATK flat	78		0				8.0	10.0					7.0		Hero	4.583333333333334	5.083333333333334	5.583333333333334	True	B	0.0	True	True
+110	Ethna *	False	Swift	4	6	12	CDmg	59		0						14.0		15.0	143.0	9.0		Hero	6.815666666666667	6.815666666666667	6.815666666666667	False	A	0.0	True	True
+1244	Hwa	False	Swift	5	6	9	HP flat	1440	CDmg	4					11.0	17.0					5.0	Hero	4.904761904761904	5.404761904761904	5.904761904761904	True	A	0.0	True	True
+1350	Inventory	False	Tolerance	4	5	9	DEF%	29	ACC	6	14.0							12.0		4.0		Hero	5.333333333333333	5.833333333333333	6.333333333333333	False	C	0.0	True	True
+1103	Iunu	False	Vampire	2	6	12	ATK%	47		0		5.0	19.0	22.0						9.0		Hero	6.939285714285714	6.939285714285714	6.939285714285714	False	B	0.0	True	True
+1115	Miho	False	Vampire	4	6	12	CDmg	59		0			17.0				14.0			15.0	6.0	Rare	6.775	6.775	6.775	False	B	0.0	True	True
